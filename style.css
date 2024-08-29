@@ -1,0 +1,57 @@
+*{
+    margin:0;
+    padding:0;
+
+}
+.body{
+    background: rgb(207, 247, 234);
+    min-height: 100vh;
+    text-align: center;
+}
+#namediv{
+    margin-top: 50px;
+
+}
+.input{
+    font-size: 25px;
+    color:rgb(41, 33, 80);
+    font-weight: 700;
+    font-family: cursive;
+    margin: 20px;
+}
+#entry{
+    width:150px;
+    height:40px;
+    font-size: 23px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(43, 112, 171);
+    color: rgb(240, 232, 242);
+    box-shadow:0 2px 2px 0 rgba(0,0,0,0.5);
+    margin-top: 10px;
+
+}
+table{
+    border-collapse: collapse;
+    width:50%;
+    margin:50px auto;
+    background-color: rgb(252, 202, 142);
+}
+table,th,td {
+    border:2px solid black;
+    padding:5px;
+
+}
+th{
+    font-size:30px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(37, 26, 95);
+    
+}
+td{
+    font-size: 25px;
+    color: crimson;
+    font-weight: 400;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
